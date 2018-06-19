@@ -1,0 +1,19 @@
+{
+  "name": "react-next-boilerplate",
+  "version": "1.0.0",
+  "description": "React boilerplate for awesome single-page apps with next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisiskylierose/react-next-boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisiskylierose/react-next-boilerplate/issues"
+  },
+  "homepage": "https://github.com/thisiskylierose/react-next-boilerplate#readme"
+}
